@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Antiscorbuticæ</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25671</idno>
+            <idno type="STC">Wing A3513</idno>
+            <idno type="STC">ESTC R38504</idno>
+            <idno type="EEBO-CITATION">17525460</idno>
+            <idno type="OCLC">ocm 17525460</idno>
+            <idno type="VID">106537</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25671)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106537)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1626:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Antiscorbuticæ</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1670</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine --  England --  History --  17th century.</term>
+               <term>Advertising --  Medicine --  England --  Early works to 1800.</term>
+               <term>Advertising --  Drugs --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="advert_for_medicines">
+            <div type="part">
+               <pb facs="tcp:106537:1"/>
+               <head>ANTISCORBUTICAE.</head>
+               <p>PILLS againſt that Epidemic Diſeaſe the <hi>Scurvy,</hi> with all its Symptoms, which for the Inſtruction of the Ignorant, are the Putrefaction of the Gums; rotten, black, and looſe Teeth, ſtinking Breath, lazineſs and dulneſs of the Limbs, and the whole Body, Giddineſs in the Head, ſudden Fluſhings, heat and redneſs in the Face; ſome have riſings on their Body, as if ſtung with Bugs, Spots in the Legs and Thighs, of a Red, Black, Pur<g ref="char:EOLhyphen"/>ple, or Blue Colour; others have an Itching in ſome or all parts of the Body, a ſhortneſs of Breath, red Gravel in the Urine, like Brick-duſt; ſtrange Pains and Aches in ſeveral parts of the Body; Fluxes of the Belly, Dyſſenteries, ſwellings and breakings out in the Body, which theſe Pills certainly Cure, by Purging away thoſe Tartareous Humours which occaſion this Diſeaſe. They likewiſe open the Obſtructions of the Womb, Liver, Spleen, and Stomach, and therefore an admitable Remedy for the green Sick<g ref="char:EOLhyphen"/>neſs, and ſuch as want their Monthly Terms. The black or yel<g ref="char:EOLhyphen"/>low Jaundice, Hypocondriack Vapours; and all Diſeaſes of the Head, <hi>viz.</hi> Vertigo, or Swimming of the Head, Palſie, Coma, Lethargy, Carus, Apoplexy; they are a ſoveraign Remedy for the Dropſie. They cleanſe the Stomach, Meſoraick Veins and Paſſages of the Chyle, and Nutriment. In fine, conſult the Paper of Dire<g ref="char:EOLhyphen"/>ctions for the uſe of theſe Medicines, to thoſe Diſeaſes for which they are recommended, and I dare be bold to aſſure you of a good ſucceſs: for I recommend them for nothing but what Thirty Years Experience of the Galenical Practice, and above Twenty in the Study of Ghymiſtry approves. Thoſe that drink the <hi>Spaw, Tunbridg, Epſom, Barnet, Aſtrop, Dulledge, Iſlington,</hi> Waters, can<g ref="char:EOLhyphen"/>not uſe a better Remedy, and in all caſes where Purging in requi<g ref="char:EOLhyphen"/>red. The Box containing 18 Pills, <hi>Price</hi> 1 <abbr>
+                     <hi>s.</hi>
+                  </abbr> 6 <abbr>
+                     <hi>d.</hi>
+                  </abbr>
+               </p>
+            </div>
+            <div type="part">
+               <head>SOLAMEN, MISERIS.</head>
+               <p>WHich cauſes Expectoration, and is an admirable Medicine for the Aſthma, Ptyſick, Catarrhs, and Rheums: In a ſhort time it takes off the tickling Defluxion that falls from the Head upon the Lungs; it opens and takes away all Stoppages and Pains of the Stomach, Lungs, and Cheſt, therefore an ex<g ref="char:EOLhyphen"/>traordinary
+<pb facs="tcp:106537:2"/>Remedy for the Conſumptive. It Cures a new Cough, or Cold, though never ſo violent, in three or four times taking; and old Ones in a ſmall time. It takes off all Looſneſs, and Vo<g ref="char:EOLhyphen"/>mitings, and Surfeits, eſpecially after hard Drinking. The Mea<g ref="char:EOLhyphen"/>ſſes, and Small Pox it brings out to Admiration. It is an Infal<g ref="char:EOLhyphen"/>lible. Remedy for all windy Diſtempers, as the Colick, Griping of the Gurs; it is admirably comfortable to the Sciatical, and thoſe that have Aches or Pains in their Limbs whatſoever. But for the Tooth-ach, I believe there is not the like Remedy, for in an Hour or leſs it gives eaſe, whether the pain be in a ſound or rotten Tooth, in one or all the Teeth; not by ſtopping them. but by taking it inwardly, it diſpels the Rheum that cauſes the Pain; as yet it never fail'd me. The firſt Doſe takes off the vio<g ref="char:EOLhyphen"/>lent pain, the next perfectly cures it. <hi>Price</hi> 1 <abbr>
+                     <hi>s.</hi>
+                  </abbr> 6. <abbr>
+                     <hi>d.</hi>
+                  </abbr> the Pot.</p>
+            </div>
+            <div type="part">
+               <head>EXUKIANO: Or, the only Venereal Antidote without <hi>Mercury.</hi>
+               </head>
+               <p>BEing an eaſie courſe of Phyſick, of that admirable Virtue, as to expell all Venereal Malignities gotten by ſoul Men or Women: Never failing to remove all Sharpneſs, or heat of Urine, in twice or thrice taking. It cures all Ulcers and Fiſtulaes in the Throat, Womb, or any part of the Body, if timely uſed, it flings off the Venom, and prevents a <hi>Pox.</hi> It never fails to cure the Whites and Weakneſs of the Back. And whereas moſt affirm, it's not to be cradicated without <hi>Mercury,</hi> I can ſhew the contrary to any Artiſt, and I'll be bound to give him 500 <abbr>
+                     <hi>l.</hi>
+                  </abbr> if he can make it appear I have the leaſt of it in theſe Compoſitions. And if he has been ſo unfortunate, as to have been abuſed with <hi>Mercury,</hi> I have a Secret to kill it. The whole Parcel contains two Doſes of purging Powders, a Glaſs of Elixir, and a Pot of Balſom. <hi>Price,</hi> 3 <abbr>
+                     <hi>s.</hi>
+                  </abbr> Many have been cured with one, but two never fail. <hi>All theſe Remedies hold good ſeveral Years.</hi> They are to be Sold at My Houſe at the <hi>Carv'd Foſts</hi> in <hi>Stone-cutters-ſtreet,</hi> between <hi>Shooe-Lane</hi> and <hi>Fleet-ditch.</hi> Where I am to be ſpoken with every Morn<g ref="char:EOLhyphen"/>ing till 11, and from 5 to 9 every Evening. And at Mr. <hi>Troughton</hi>'s Bookſeller, near the <hi>Broad Gate</hi> in <hi>Coventry.</hi> Mrs. <hi>Moores,</hi> a Salter, next Door to the <hi>White Hart Inn</hi> in Southwark, Mr. <hi>Henry Barber's</hi> in <hi>Ship Alley</hi> in <hi>Well Cloſe. The Poor may have Advice for Nothing.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
